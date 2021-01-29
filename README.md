@@ -8,7 +8,7 @@
  ### < About me />
  
  Full Stack Web Development Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
- Comissioner in <i><a href="https://www.ted.com/">TED Talks</a></i> </br> leading and preparing the speakers in public speaking and rhetorical techniques.
+ Comissioner in <i><a href="https://www.ted.com/">TED Talks</a></i> leading and preparing the speakers in public speaking and rhetorical techniques. </br> 
  
 :bulb: I’m currently improving my tech skills. </br>
 🌱 Right now I´m learning Hooks and Redux. </br>
