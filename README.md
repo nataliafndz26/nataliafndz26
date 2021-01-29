@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://res.cloudinary.com/nataliafndz26/image/upload/v1611943672/Natalia_fern%C3%A1ndez_pe%C3%B1a_background_dhttx0.png"/> </p>
 
-### Hi there! I'm Natalia Fernández! :sparkles: :rose:
+### Hi there! I'm Natalia Fernández! :sparkles::rose:
 
 <p> I am a Multilingual Front End Developer with a Translation background. Passionate about programming :computer: and communication :speech_balloon:.</p> 
  <p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
