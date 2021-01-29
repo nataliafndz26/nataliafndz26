@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://res.cloudinary.com/nataliafndz26/image/upload/v1611943672/Natalia_fern%C3%A1ndez_pe%C3%B1a_background_dhttx0.png"/> </p>
+
 ### Hi there 👋
 
 <!--
