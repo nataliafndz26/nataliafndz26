@@ -1,6 +1,6 @@
 ### Hi there! I'm Natalia Fernández! :sparkles::rose:
 
-<p> I am a Multilingual Front End Developer with a Translation background. </br> Passionate about programming :computer: and communication :speech_balloon:.</p> 
+<p> I am a Multilingual Front End Developer with a Translation background. </br> I am passionate about programming :computer: and communication :speech_balloon:.</p> 
  <p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
  
  ### < About me />
