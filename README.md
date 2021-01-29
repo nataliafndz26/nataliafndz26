@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://res.cloudinary.com/nataliafndz26/image/upload/v1611943672/Natalia_fern%C3%A1ndez_pe%C3%B1a_background_dhttx0.png"/> </p>
 
-### Hi there! I'm Natalia Fernández! :sparkles:
+### Hi there! I'm Natalia Fernández! :sparkles: :rose:
 
 <p> I am a Multilingual Front End Developer with a Translation background. Passionate about programming :computer: and communication :speech_balloon:.</p> 
  <p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
@@ -19,14 +19,14 @@
 
 HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB | Wordpress | Handlebars.js | Bootstrap | Canvas | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Slack 
 
-<a href="https://github.com/loretoavoces">
+<a href="https://github.com/nataliafndz26">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nataliafndz26&show_icons=true&theme=nightowl" />
 </a>
-<a href="https://github.com/loretoavoces?tab=repositories">
+<a href="https://github.com/nataliafndz26?tab=repositories">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
 </a>
 
-### < Do you want to talk? />
+### < Contact me! />
 
 <img src='https://img2.freepng.es/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg' alt='linkedin' height='15'> You can find me on: <i><a href="https://www.linkedin.com/in/natalia-fernández-peña/">Linkedin</a></i> </br>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='15'>  Send me an <i><a href = "mailto: nataliafernandezpena@gmail.com">E-mail</a></i> <br />
