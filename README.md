@@ -2,7 +2,7 @@
 
 <p> I am a Multilingual Front End Developer with a Translation background.</p> 
 <p> I am passionate about programming :computer:  and communication :speech_balloon:</p> 
-<p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
+<p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I learned :muscle: </p>
  
  ### < About me />
  
