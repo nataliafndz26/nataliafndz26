@@ -8,12 +8,23 @@
  ### < About me />
  
  Full Stack Web Development Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
- Comissioner in <i><a href="https://www.ted.com/">TED Talks</a></i> </br>
+ Comissioner in <i><a href="https://www.ted.com/">TED Talks</a></i> </br> leading and preparing the speakers in public speaking and rhetorical techniques.
  
 :bulb: I’m currently improving my tech skills. </br>
 🌱 Right now I´m learning Hooks and Redux. </br>
-I can speak Spanish :es:, English :gb: and German :de:. </br>
+:eight_spoked_asterisk: I can speak Spanish :es:, English :gb: and German :de:. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
+
+### < Technologies />
+
+HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB | Wordpress | Handlebars.js | Bootstrap | Canvas | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Slack 
+
+<a href="https://github.com/loretoavoces">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nataliafndz26&show_icons=true&theme=nightowl" />
+</a>
+<a href="https://github.com/loretoavoces?tab=repositories">
+  <img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
+</a>
 
 <!--
 **nataliafndz26/nataliafndz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
