@@ -1,11 +1,12 @@
 ### Hi there! I'm Natalia Fernández! :sparkles::rose:
 
-<p> I am a Multilingual Front End Developer with a Translation background. </br> I am passionate about programming :computer: and communication :speech_balloon:.</p> 
- <p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
+<p> I am a Multilingual Front End Developer with a Translation background.</p> 
+<p> I am passionate about programming :computer: and communication :speech_balloon:</p> 
+<p> I just finished the Web Development Bootcamp at <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> and now I'm improving everything I've learned :muscle: </p>
  
  ### < About me />
  
- Full Stack Web Development Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
+ Full Stack Web Development Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid.</a></i> </br>
  Comissioner in <i><a href="https://www.ted.com/">TED Talks</a></i> leading and preparing the speakers in public speaking and rhetorical techniques. </br> 
  
 :bulb: I’m currently improving my tech skills. </br>
