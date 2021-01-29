@@ -26,11 +26,12 @@ HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB 
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
 </a>
 
-### < Contact me! />
-<div>
-<a href="https://github.com/nataliafndz26"><img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'></a>
-<a href="https://www.linkedin.com/in/natalia-fernandez-pena/"><img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'></a>
-</div>
+### < Do you want to talk? />
+
+<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='15'>You can find me on: <i><a href="https://www.linkedin.com/in/natalia-fernández-peña/">Linkedin</a></i> </br>
+:email: Send me an <i><a href = "mailto: nataliafernandezpena@gmail.com">E-mail</a></i> <br />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png' alt='instagram' height='15'> Or follow me on <i><a href="https://www.instagram.com/nataliafndz26/">Instagram</a></i> 
+
 
 <!--
 **nataliafndz26/nataliafndz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
