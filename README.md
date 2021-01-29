@@ -23,8 +23,14 @@ HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB 
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nataliafndz26&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/loretoavoces?tab=repositories">
-  <img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
 </a>
+
+### < Contact me! />
+<div>
+<a href="https://github.com/nataliafndz26"><img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'></a>
+<a href="https://www.linkedin.com/in/natalia-fernandez-pena/"><img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'></a>
+</div>
 
 <!--
 **nataliafndz26/nataliafndz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
