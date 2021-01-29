@@ -19,10 +19,10 @@
 HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB | Wordpress | Handlebars.js | Bootstrap | Canvas | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Slack 
 
 <a href="https://github.com/nataliafndz26">
-  <img align="center" width="360" src="https://github-readme-stats.vercel.app/api?username=nataliafndz26&show_icons=true&theme=nightowl" />
+  <img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=nataliafndz26&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/nataliafndz26?tab=repositories">
-  <img align="center" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
+  <img align="center" width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafndz26&layout=compact&theme=nightowl" />
 </a>
 
 ### < Contact me! />
