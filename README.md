@@ -28,9 +28,11 @@ HTML5 | CSS3 | JavaScript(ES6) | ReactJS | Hooks | NodeJS | ExpressJS | MongoDB 
 
 ### < Do you want to talk? />
 
-<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='15'>You can find me on: <i><a href="https://www.linkedin.com/in/natalia-fernández-peña/">Linkedin</a></i> </br>
-:email: Send me an <i><a href = "mailto: nataliafernandezpena@gmail.com">E-mail</a></i> <br />
+<img src='https://img2.freepng.es/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg' alt='linkedin' height='15'> You can find me on: <i><a href="https://www.linkedin.com/in/natalia-fernández-peña/">Linkedin</a></i> </br>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='15'>  Send me an <i><a href = "mailto: nataliafernandezpena@gmail.com">E-mail</a></i> <br />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png' alt='instagram' height='15'> Or follow me on <i><a href="https://www.instagram.com/nataliafndz26/">Instagram</a></i> 
+
+
 
 
 <!--
