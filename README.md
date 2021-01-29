@@ -1,4 +1,4 @@
-### Hi there! I'm Natalia Fernández! :sparkles::rose:
+## Hi there! I'm Natalia Fernández! :sparkles::rose:
 
 <p> I am a Multilingual Front End Developer with a Translation background.</p> 
 <p> I am passionate about programming :computer:  and communication :speech_balloon:</p> 
