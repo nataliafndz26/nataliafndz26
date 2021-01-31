@@ -11,7 +11,7 @@
  
 :bulb: I’m currently improving my tech skills. </br>
 🌱 Right now I´m learning Hooks and Redux. </br>
-:eight_spoked_asterisk: I can speak Spanish :es:, English :gb: and German :de:. </br>
+🗣 I can speak Spanish :es:, English :gb: and German :de:. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
 ### < Technologies />
